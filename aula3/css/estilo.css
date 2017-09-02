@@ -1,0 +1,235 @@
+body{
+  background-image: url("../img/fundo.jpg");
+
+}
+
+#DivContainer{
+  background-color: black;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+#banner2{
+  width: 100%;
+  height: 250px;
+}
+
+.ok{
+  background-color: gray;
+  color: white;
+  border:1px solid black;
+
+}
+
+#coluna1,#Conteudo,#categoria{
+  border:1px solid black;
+}
+
+#maisCategoria{
+  border: 1px solid black;
+  background-color: grey;
+  margin-top: 10px;
+
+}
+
+#corpoMaisCategoria{
+  height: 50px;
+  background-color: black;
+
+
+}
+
+#tituloMaisCategorias{
+  color:white;
+  margin-left: 15px;
+}
+
+#topSeries{
+  border: 1px solid black;
+  background-color: grey;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+#tituloSeries{
+  color: white;
+  margin-left: 15px;
+}
+
+#corpoTopSeries{
+  width: 100%;
+  background-color: black;
+}
+#corpo1{
+  background-color: white;
+  width: 90%;
+  margin:auto;
+  border: 1px solid black;
+}
+
+.series{
+  height: 210px;
+  width: 190px;
+  margin-left: 22px;
+}
+
+.titulo{
+  color: black;
+  margin-left: 20px;
+}
+
+#corpo2{
+  background-color: white;
+  width: 90%;
+  margin: auto;
+  border: 1px solid black;
+}
+
+#corpo3{
+  background-color: white;
+  width: 90%;
+  margin: auto;
+  border: 1px solid black;
+}
+
+#corpo4{
+  background-color: white;
+  width: 90%;
+  margin: auto;
+  border: 1px solid black;
+}
+
+#filmes{
+  background-color:  white;
+  margin-top: 10px;
+}
+
+.tituloConteudo{
+  color: black;
+  margin-left: 20px;
+}
+
+#imagensConteudo{
+  height: 400px;
+  width: 300px;
+  margin-left: 15px;
+}
+
+#filmes1{
+  background-color:  white;
+  margin-top: 10px;
+  border: 1px solid black;
+}
+
+#filmes2{
+  background-color:  white;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+
+#filmes3{
+  background-color:  white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border:1px solid black;
+}
+
+#filmes4{
+  background-color:  white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 10px;
+}
+
+#pesquisa{
+  border: 1px solid black;
+  background-color: grey;
+  margin-top: 10px;
+
+}
+
+#botaoPesquisa{
+  margin-top: 10px;
+}
+
+
+#enviar{
+  margin-top: 10px;
+}
+
+#topFilmes{
+  border: 1px solid black;
+  background-color: black;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+#tituloTop{
+  color: white;
+  margin-left: 15;
+
+}
+#corpoTop{
+  width: 100%;
+  background-color: black;
+}
+
+#top1{
+  background-color: white;
+  width: 90%;
+  margin: auto;
+  border: 1px solid black;
+}
+
+#top2{
+  background-color: white;
+  width: 90%;
+  margin: auto;
+  border: 1px solid black;
+}
+#top3{
+  background-color: white;
+  width: 90%;
+  margin: auto;
+  border: 1px solid black;
+}
+#top4{
+  background-color: white;
+  width: 90%;
+  margin: auto;
+  border: 1px solid black;
+}
+
+#top5{
+  background-color: white;
+  width: 90%;
+  margin: auto;
+  border: 1px solid black;
+}
+#top6{
+  background-color: white;
+  width: 90%;
+  margin: auto;
+  border: 1px solid black;
+}
+.top{
+  height: 210px;
+  width: 190px;
+  margin-left: 22px;
+}
+
+.tituloTopfilmes{
+  color: black;
+  margin-left: 20px;
+}
+
+#rodape{
+  background-color: grey;
+  width:100%;
+  height: 80px;
+}
+#logo{
+  width: 100px;
+  height: 80px;
+}
